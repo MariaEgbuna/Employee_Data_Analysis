@@ -187,3 +187,6 @@ This document summarizes the key findings and observations from our comprehensiv
 * **Longest Tenures in Leadership and Specialized IT/Data Roles:** Roles such as `IT Director`, `Principal Data Architect`, and `Database Administrator` show the longest average tenures (above 2 years), suggesting greater stability in senior leadership and highly specialized technical positions.
 * **Shortest Tenures in Critical Roles:** Conversely, some highly specialized or senior roles like `Sr. DBA` (0.58 years), `IT Manager - Infra` (0.62 years), `CIO` (0.78 years), and `Data Architect` (0.79 years) have the shortest average tenures. This indicates a potential churn issue in these critical, high-impact roles, raising concerns about knowledge retention and leadership continuity.
 * **Varying Tenures in Data-Related Roles:** `Data Analyst` (appearing twice, with tenures of 1.45 and 1.07 years), `Senior BI Developer` (1.30 years), and `BI Developer` (1.29 years) show moderate tenures, falling within the overall short average tenure range.
+
+---
+**Date:** June 12, 2025
